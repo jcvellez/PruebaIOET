@@ -1,0 +1,14 @@
+C:\ProyectoPrueba\LeerTxt\LeerTxt\bin\Debug\netcoreapp3.1\LeerTxt.exe
+C:\ProyectoPrueba\LeerTxt\LeerTxt\bin\Debug\netcoreapp3.1\LeerTxt.deps.json
+C:\ProyectoPrueba\LeerTxt\LeerTxt\bin\Debug\netcoreapp3.1\LeerTxt.runtimeconfig.json
+C:\ProyectoPrueba\LeerTxt\LeerTxt\bin\Debug\netcoreapp3.1\LeerTxt.runtimeconfig.dev.json
+C:\ProyectoPrueba\LeerTxt\LeerTxt\bin\Debug\netcoreapp3.1\LeerTxt.dll
+C:\ProyectoPrueba\LeerTxt\LeerTxt\bin\Debug\netcoreapp3.1\LeerTxt.pdb
+C:\ProyectoPrueba\LeerTxt\LeerTxt\obj\Debug\netcoreapp3.1\LeerTxt.csproj.AssemblyReference.cache
+C:\ProyectoPrueba\LeerTxt\LeerTxt\obj\Debug\netcoreapp3.1\LeerTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoPrueba\LeerTxt\LeerTxt\obj\Debug\netcoreapp3.1\LeerTxt.AssemblyInfoInputs.cache
+C:\ProyectoPrueba\LeerTxt\LeerTxt\obj\Debug\netcoreapp3.1\LeerTxt.AssemblyInfo.cs
+C:\ProyectoPrueba\LeerTxt\LeerTxt\obj\Debug\netcoreapp3.1\LeerTxt.csproj.CoreCompileInputs.cache
+C:\ProyectoPrueba\LeerTxt\LeerTxt\obj\Debug\netcoreapp3.1\LeerTxt.dll
+C:\ProyectoPrueba\LeerTxt\LeerTxt\obj\Debug\netcoreapp3.1\LeerTxt.pdb
+C:\ProyectoPrueba\LeerTxt\LeerTxt\obj\Debug\netcoreapp3.1\LeerTxt.genruntimeconfig.cache
